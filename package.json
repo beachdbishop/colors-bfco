@@ -1,4 +1,11 @@
 {
   "name": "@beachfleischman/colors-bfco",
-  "version": "1.0.0"
+  "version": "1.0.2",
+  "license": "MIT",
+  "description": "BeachFleischman Brand Colors",
+  "author": {
+    "name": "Daniel Bishop",
+    "url": "https://beachfleischman.com/"
+  },
+  "repository": "github:bishless/colors-bfco"
 }
